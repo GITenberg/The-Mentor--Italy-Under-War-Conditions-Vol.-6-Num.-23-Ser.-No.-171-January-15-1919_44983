@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '43019'
     url: http://www.gutenberg.org/2009/agents/43019
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/44983#The-Mentor--Italy-Under-War-Conditions-Vol.-6-Num.-23-Ser.-No.-171-January-15-1919
 gutenberg_issued: '2014-02-22'
 gutenberg_type: Text
 identifiers:
